@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Google Play Game PoM -->
+    <string name="app_id">317286889126</string>
+
+    <string name="leaderboard_id">CgkIpu2W_p0JEAIQAQ</string>
+
+    <string name="achievement_10_paths">CgkIpu2W_p0JEAIQAg</string>
+    <string name="achievement_25_paths">CgkIpu2W_p0JEAIQAw</string>
+    <string name="achievement_50_paths">CgkIpu2W_p0JEAIQBA</string>
+    <string name="achievement_75_paths">CgkIpu2W_p0JEAIQBQ</string>
+    <string name="achievement_100_paths">CgkIpu2W_p0JEAIQBg</string>
+
+    <string name="achievement_10_new_paths">CgkIpu2W_p0JEAIQBw</string>
+    <string name="achievement_25_new_paths">CgkIpu2W_p0JEAIQCA</string>
+    <string name="achievement_50_new_paths">CgkIpu2W_p0JEAIQCQ</string>
+    <string name="achievement_75_new_paths">CgkIpu2W_p0JEAIQCg</string>
+    <string name="achievement_100_new_paths">CgkIpu2W_p0JEAIQCw</string>
+
+    <string name="achievement_25_kms">CgkIpu2W_p0JEAIQDA</string>
+    <string name="achievement_50_kms">CgkIpu2W_p0JEAIQDQ</string>
+    <string name="achievement_75_kms">CgkIpu2W_p0JEAIQDg</string>
+    <string name="achievement_100_kms">CgkIpu2W_p0JEAIQDw</string>
+
+    <string name="achievement_10_review">CgkIpu2W_p0JEAIQEA</string>
+    <string name="achievement_25_review">CgkIpu2W_p0JEAIQEQ</string>
+    <string name="achievement_50_review">CgkIpu2W_p0JEAIQEg</string>
+    <string name="achievement_100_review">CgkIpu2W_p0JEAIQEw</string>
+
+</resources>

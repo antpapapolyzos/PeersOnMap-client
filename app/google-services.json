@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "216154838370",
+    "firebase_url": "https://pathsonmaps.firebaseio.com",
+    "project_id": "pathsonmaps",
+    "storage_bucket": "pathsonmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216154838370:android:2ab1b7af744cb1a0",
+        "android_client_info": {
+          "package_name": "com.apap.pom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216154838370-9kgfrthbvoro3q8s9mlc9anfrvlcp6aa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "216154838370-7k2qg7n4cgecd0kkr1picgakmtqk0j4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFGZR7GFXRnUxjzLnsbkYnjuvH-EQVEZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-87764347-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

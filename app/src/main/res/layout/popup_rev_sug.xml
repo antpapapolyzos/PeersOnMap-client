@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_rev_sug"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="6dp"
+    android:background="@color/colorMain">
+
+    <TextView
+        android:text="@string/info_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_info_title"
+        android:textColor="@color/colorOrange"
+        android:paddingBottom="10dp"
+        android:paddingTop="4dp"
+        android:textAllCaps="false"
+        android:textStyle="normal|bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="@string/info_review_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/tv_info_title"
+        android:id="@+id/tv_info_review"
+        android:textColor="@color/colorOrange"
+        android:gravity="center"
+        android:paddingBottom="8dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:id="@+id/tv_info_line"
+        android:layout_below="@+id/tv_info_review"
+        android:background="@color/colorOrange" />
+
+    <TextView
+        android:text="@string/info_suggest_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_info_suggest"
+        android:layout_below="@+id/tv_info_line"
+        android:gravity="center"
+        android:textColor="@color/colorOrange"
+        android:paddingTop="8dp"
+        android:paddingBottom="10dp"/>
+
+    <Button
+        android:text="@string/close_info_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_info_suggest"
+        android:id="@+id/btn_close_popup"
+        android:background="@android:drawable/screen_background_light_transparent"
+        android:textStyle="normal|bold"
+        android:textColor="@color/colorOrange"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ReviewPathActivity">
+
+    <item
+        android:id="@+id/submenu_show_maps"
+        app:showAsAction="never"
+        android:title="@string/submenu_show_maps" />
+
+    <item
+        android:id="@+id/submenu_rank_list_of_players"
+        app:showAsAction="never"
+        android:title="@string/submenu_rank_list_of_players" />
+
+    <item
+        android:id="@+id/submenu_settings"
+        app:showAsAction="never"
+        android:title="@string/submenu_settings" />
+
+    <item
+        android:id="@+id/submenu_log_out"
+        app:showAsAction="never"
+        android:title="@string/submenu_log_out" />
+
+</menu>

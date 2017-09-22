@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GoogleGamesActivity">
+
+    <item
+        android:id="@+id/submenu_review_paths"
+        app:showAsAction="never"
+        android:title="@string/submenu_review_paths" />
+
+    <item
+        android:id="@+id/submenu_settings"
+        app:showAsAction="never"
+        android:title="@string/submenu_settings" />
+
+    <item
+        android:id="@+id/submenu_log_out"
+        app:showAsAction="never"
+        android:title="@string/submenu_log_out" />
+
+</menu>
