@@ -8,21 +8,21 @@
 <br />
 
 Όταν ο χρήστης ολοκληρώσει μια διαδρομή, ενημερώνεται για τους πόντους που θα κερδίσει αν την ανεβάσει, ενώ έχει και τη δυνατότητα να την απορρίψει: <br />
-![record_end](https://user-images.githubusercontent.com/8918882/30753270-8083ecaa-9fc7-11e7-8e86-9a9ca38f99ab.png)
+![record_end1](https://user-images.githubusercontent.com/8918882/30755828-cd2feb7c-9fd0-11e7-9e89-521950f6ac44.png)
 <br />
 
 Επίσης, ο χρήστης μπορεί ανά πάσα στιγμή να ελέγξει τους πόντους, τα επιτεύγματα και την κατάταξη του στο συνδεδεμένο Google Play Game: <br />
-![leaderboard](https://user-images.githubusercontent.com/8918882/30753293-8d878722-9fc7-11e7-90d9-104312695921.png)
-![achievements](https://user-images.githubusercontent.com/8918882/30753339-b9394ab8-9fc7-11e7-9b15-f318cb83d924.png)
+![leaderboard1](https://user-images.githubusercontent.com/8918882/30755843-d8f78cf8-9fd0-11e7-8de1-53f8288165ae.png)
+![achievements1](https://user-images.githubusercontent.com/8918882/30755849-e13fd97e-9fd0-11e7-9ae3-3f4c17da2339.png)
  <br />
  
 Επιπλέον, ο χρήστης έχει τη δυνατότητα να αξιολογήσει ή να σχεδιάσει μια διόρθωση για κάποιο από τα μονοπάτια που βρίσκονται γύρω από την τρέχουσα θέση του: <br />
-![review](https://user-images.githubusercontent.com/8918882/30753368-c8fa8b56-9fc7-11e7-818d-7977c2b2a3f6.png)
-![suggest](https://user-images.githubusercontent.com/8918882/30753383-d55b8d28-9fc7-11e7-9763-ac7b77440ab4.png)
+![review1](https://user-images.githubusercontent.com/8918882/30755864-e915bd94-9fd0-11e7-9992-9004025895db.png)
+![suggest1](https://user-images.githubusercontent.com/8918882/30755886-f5c76664-9fd0-11e7-983b-6305c7257c58.png)
 <br />
 
 Από την οθόνη ρυθμίσεων, μπορεί να γίνει παραμετροποίηση της εφαρμογής: <br />
-![settings](https://user-images.githubusercontent.com/8918882/30753396-de992878-9fc7-11e7-879e-63f95518a2d6.png)
+![settings1](https://user-images.githubusercontent.com/8918882/30755897-fc90dd86-9fd0-11e7-9a0e-75bf07a43f04.png)
  <br />
  
 Τέλος, υπάρχει δυνατότητα εμφάνισης του χάρτη πεζών ή ποδηλατών που έχει δημιουργηθεί ως τώρα.
