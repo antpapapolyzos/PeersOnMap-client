@@ -92,7 +92,7 @@
  
  επίσης από το *Credentials* στο *APIs & services* πατήστε το κουμπί *Create credentials-->API key*. Στα restrictions του API key που δημιουργήθηκε επιλέγετε Android apps για να εισάγετε το package name, το νέο SHA1 fingerprint της εφαρμογής και πατήστε Save. Αντιγράψτε το νέο API Key π.χ. AIzaSyBIzq2BMBbDvBqjDE0YYSQcCo5Wi5dmtVA και καταχωρήστε στο \app\src\main\res\values\google_maps_api.xml και στα \app\src\main\res\values\strings.xml και \app\src\main\res\values-el\strings.xml.
  Βεβαιωθείτε ότι στο αρχείο AndroidManifest.xml υπάρχει η καταχώρηση:
-> <meta-data
+> < meta-data
 >    android:name="com.google.android.geo.API_KEY"
 >    android:value="@string/google_maps_key" />
 
@@ -123,10 +123,10 @@
 Το μοναδικό αναγνωριστικό του παιχνιδιού, τα αναγνωριστικά του πίνακα και των επιτευγμάτων πρέπει να καταχωρηθούν στις αντίστοιχες μεταβλητές του Android project στο αρχείο \app\src\main\res\values\ids.xml.
 Βεβαιωθείτε ότι στο αρχείο AndroidManifest.xml υπάρχουν οι καταχωρήσεις:
 
-> <meta-data
+> < meta-data
 >	android:name="com.google.android.gms.games.APP_ID"
 >	android:value="@string/app_id" />
-> <meta-data
+> < meta-data
 >	android:name="com.google.android.gms.version"
 >	android:value="@integer/google_play_services_version" />
 
